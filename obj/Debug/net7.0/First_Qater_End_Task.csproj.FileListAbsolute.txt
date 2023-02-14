@@ -1,0 +1,15 @@
+D:\Учеба\1 четверть\First_Qater_End_Task\bin\Debug\net7.0\First_Qater_End_Task.exe
+D:\Учеба\1 четверть\First_Qater_End_Task\bin\Debug\net7.0\First_Qater_End_Task.deps.json
+D:\Учеба\1 четверть\First_Qater_End_Task\bin\Debug\net7.0\First_Qater_End_Task.runtimeconfig.json
+D:\Учеба\1 четверть\First_Qater_End_Task\bin\Debug\net7.0\First_Qater_End_Task.dll
+D:\Учеба\1 четверть\First_Qater_End_Task\bin\Debug\net7.0\First_Qater_End_Task.pdb
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\First_Qater_End_Task.csproj.AssemblyReference.cache
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\First_Qater_End_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\First_Qater_End_Task.AssemblyInfoInputs.cache
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\First_Qater_End_Task.AssemblyInfo.cs
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\First_Qater_End_Task.csproj.CoreCompileInputs.cache
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\First_Qater_End_Task.dll
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\refint\First_Qater_End_Task.dll
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\First_Qater_End_Task.pdb
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\First_Qater_End_Task.genruntimeconfig.cache
+D:\Учеба\1 четверть\First_Qater_End_Task\obj\Debug\net7.0\ref\First_Qater_End_Task.dll
