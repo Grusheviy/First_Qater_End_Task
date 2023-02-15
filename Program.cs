@@ -15,6 +15,8 @@ int ArrayCheck(string[] array, int lengthMax)
   }
   return result;
 }
+
+
 Console.WriteLine("Write your array length number: ");
 int n = Convert.ToInt32(Console.ReadLine());
 String[] ArrayOfStrings = new string[n];
